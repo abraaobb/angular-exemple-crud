@@ -7,9 +7,13 @@
  - Para saber mais do json-server: [json-server](https://github.com/typicode/json-server)
 ## Versões:
 **Angular CLI:** 13.2.2
+
 **Node:** 16.13.1
+
 **Package Manager:** npm 8.1.2
+
 **OS:** win32 x64
+
 **json-server:** 0.17.0
 
 ## Para teste
